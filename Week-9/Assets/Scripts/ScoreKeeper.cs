@@ -5,7 +5,7 @@ using UnityEngine;
 public class ScoreKeeper : MonoBehaviour
 {
     public int pickUpValue;
-    UIManager uiManager;
+    public UIManager uiManager;
 
     private int score = 0;
     public int Score
